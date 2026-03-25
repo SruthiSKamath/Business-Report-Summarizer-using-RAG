@@ -1,0 +1,7 @@
+flask
+langchain
+faiss-cpu
+openai
+tiktoken
+pypdf
+python-docx
