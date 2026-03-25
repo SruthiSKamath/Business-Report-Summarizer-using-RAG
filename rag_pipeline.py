@@ -7,7 +7,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
 # Configure Gemini
-genai.configure(api_key=os.getenv("AIzaSyBnV5L49R6Kq3WYKuDbMMZyBRo1GZygTVI"))
+genai.configure(api_key=os.getenv(""))
 
 
 def load_document(file_path):
